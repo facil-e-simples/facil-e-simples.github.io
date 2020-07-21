@@ -33,6 +33,11 @@
      font-size: 30px;
      color: #f7f7f7;
  }
+
+ .descritivo{
+    font-size: 15px;
+    color: #f7f7f7;
+ }
  
  .container-form {
      width: 60%;
@@ -54,6 +59,9 @@
  
 .botao-gerar:hover {
      background-color: #076649;
+}
+.conteudo {
+    color: #fff
 }
  
 footer {
